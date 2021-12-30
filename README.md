@@ -34,6 +34,8 @@ mv github .github
 
 5. Modify `setup.cfg`
 
+[More configurations](https://setuptools.pypa.io/en/latest/userguide/declarative_config.html)
+
 > You need change `[[PROJECT-NAME]]` and `[[DESCRIPTION]]`
 >
 > Of course, value of `version`, `author`, `email` also need change.
